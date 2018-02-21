@@ -1,0 +1,12 @@
+.highlight {
+    border: solid 1px black;
+    
+}
+
+#scrollerBox {
+    position: relative;
+    height: 400px;
+    overflow: auto;
+    border: solid 1px #ccc;
+}
+
